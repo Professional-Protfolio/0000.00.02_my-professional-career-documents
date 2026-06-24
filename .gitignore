@@ -1,8 +1,9 @@
 # Ignore everything
 *
 
-# Allow gitignore itself
+# Allow gitignore and README
 !.gitignore
+!README.md
 
 # Allow only these two folders
 !01_certificates/
