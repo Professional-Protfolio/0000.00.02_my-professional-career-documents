@@ -1,0 +1,13 @@
+# Ignore everything
+*
+
+# Allow gitignore itself
+!.gitignore
+
+# Allow only these two folders
+!01_certificates/
+!02_publications/
+
+# Allow PDFs ONLY inside these folders
+!01_certificates/**/*.pdf
+!02_publications/**/*.pdf
