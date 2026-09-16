@@ -6,9 +6,9 @@
 !README.md
 
 # Allow only these two folders
-!01_certificates/
-!02_publications/
+!01_publications/
+!02_certificates/
 
 # Allow PDFs ONLY inside these folders
-!01_certificates/**/*.pdf
-!02_publications/**/*.pdf
+!01_publications/**/*.pdf
+!02_certificates/**/*.pdf
